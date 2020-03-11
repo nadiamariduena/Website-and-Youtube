@@ -8,7 +8,7 @@ website exercise plus first "youtube" simulation grid
 
 
 
-![preview](https://imagizer.imageshack.com/img921/7952/Ddwtmb.gif)
+![preview](https://imagizer.imageshack.com/img922/6808/Qo6SZg.jpg)
 
 _Exercise 11 march 2020
 * The YOUTUBE exercise (is inside the website). 
