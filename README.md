@@ -8,3 +8,5 @@ website exercise plus first "youtube" simulation grid
 _Exercise 11 march 2020
 * YOUTUBE exercise (its inside the website). 
  
+![preview](https://imagizer.imageshack.com/v2/640x480q90/921/kWK33b.jpg)
+
